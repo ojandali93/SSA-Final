@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ojandali93/Fotos-React-Express.git"
+    "url": "git+https://github.com/ojandali93/SSA-Final.git"
   },
   "author": "Omar Jandali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ojandali93/Fotos-React-Express/issues"
+    "url": "https://github.com/ojandali93/SSA-Final/issues"
   },
-  "homepage": "https://github.com/ojandali93/Fotos-React-Express#readme",
+  "homepage": "https://github.com/ojandali93/SSA-Final#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "colors": "^1.4.0",
